@@ -1,3 +1,17 @@
+## ⚠️ Warning: Do Not Use Until Further Notice! ⚠️
+
+### What's happening?
+
+Discord has taken measures to prevent abuse of its CDN for storing content from external sites. They have added new parameters to CDN links, including an expiration timestamp, an upload timestamp, and a signature. These parameters restrict access to files and become invalid after a certain time. Additionally, public access to files on Google Cloud has been disabled, affecting emojis, stickers, and other content previously stored there. While these restrictions aren't active yet, they will be soon.
+
+### What shall I do?
+
+- Check the updates over at our Discord server here: https://ddrv.forscht.dev/
+- Back up your important data.
+- Stop uploading data using ddrv until further notice.
+
+---
+
 # ddrv
 **Turn Discord into infinite cloud storage with support for HTTP, WebDAV, and FTP.**
 
